@@ -10,3 +10,8 @@ A better UI for the Lego Rovers.
 New ideia
 
 <img src='https://securecdn.disqus.com/uploads/mediaembed/images/476/8160/original.jpg'/>
+
+
+## Mailing list
+
+Please contact us on the project mailing list 'legorovers@googlegroups.com' (and web interface https://groups.google.com/forum/?fromgroups#!forum/legorovers).
